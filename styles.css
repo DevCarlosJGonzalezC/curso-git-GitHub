@@ -2,4 +2,18 @@ html {
     background-color: black;
     color: white;
     font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: orangered;
+}
+
+a:hover {
+    color: orange;
 }
