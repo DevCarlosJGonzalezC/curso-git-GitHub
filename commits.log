@@ -1,0 +1,122 @@
+commit ee4b5578bbd6d8ebd1ff4cd6583ced17befc8438
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 10:09:04 2024 -0500
+
+    Agregando dos parrafos
+
+commit 645e595771d4602fe30966d3116b38ed2fa74310
+Merge: 06c90a0 63880a5
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 10:05:06 2024 -0500
+
+    Resolviendo conflictos en estaciones del año y fecha de inicio
+
+commit 06c90a0b1dff5a47238fdcf671e50009d195e651
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 09:35:08 2024 -0500
+
+    Agregando estacion del año con fechas de inicio
+
+commit 63880a5b42e0db7a2e00d26e42b46fb01c9e8a61
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 09:35:08 2024 -0500
+
+    Agregando estaciones del año
+
+commit 80910bd3567cbe181e63d3f58d7700796dc91129
+Merge: e211d39 31967e4
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 09:16:59 2024 -0500
+
+    Resolviendo conflictos merge main/html en el documento index.html
+
+commit 31967e4b5f975ffccd2288af47b401d84b2e82b5
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 08:39:58 2024 -0500
+
+    Agregando index.js al index.html
+
+commit e211d394ff3eb4781c5783c4dc8c152ab82b5b45
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 08:31:56 2024 -0500
+
+    Agregando subtitulo
+
+commit 85237fcad19e36255a39a009e38b9d634699394b
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Fri Jan 19 08:28:57 2024 -0500
+
+    Actualizacion
+
+commit 5103b0e86e0d97a8998d8148dfb8b91987c3c83b
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 21:39:48 2024 -0500
+
+    Agregando style.css al index.html
+
+commit afd3734fe785a7c1ab07d9aaf3c315736b98e301
+Merge: f59c570 c2e18a5
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 21:22:05 2024 -0500
+
+    Merge branch 'js'
+
+commit c2e18a5d49cfc0b8438e2f6304265900fe380367
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 21:17:09 2024 -0500
+
+     Correccion del index.js
+
+commit a3e818ad978bfbebf221755eb9233a7b751cf94f
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 21:16:00 2024 -0500
+
+     Creando index.js
+
+commit f59c570277a1368c51ae9738cb615bc37b631258
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 21:01:53 2024 -0500
+
+    Correccion css
+
+commit 87dfff6dd0760ca4120631e636e6afc42c0025ad
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 21:00:44 2024 -0500
+
+    Creando style.css
+
+commit 38f834042f1079b4b91ddabba6e6a80d2fd243b2
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Thu Jan 18 20:54:03 2024 -0500
+
+    Creando archivo index.html
+
+commit 3bcb408cc93e241cc8a714ee5b27505a0fdfe3e5
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Wed Jan 17 22:43:55 2024 -0500
+
+    ignorando archivos .exe
+
+commit 8306b933c67f4f361f1a33e0b8010558b586e7a3
+Author: dev. Carlos J. Gonzalez <146993750+DevCarlosJGonzalezC@users.noreply.github.com>
+Date:   Mon Jan 15 22:09:24 2024 -0500
+
+    creando licencia del repositorio
+
+commit 7e362bdc3691dd4e7d7d35ee1aba8a7b2684357f
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Sun Jan 14 22:27:58 2024 -0500
+
+    Agregando email
+
+commit 8ddc24acf70530ff520d806dd1461646825b839c
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Sun Jan 14 22:18:31 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 94ec18081667364b0a92f41677b9806a6444dd36
+Author: Dev.CarlosGonzalezC <dev.carlosgonzalezc@gmail.com>
+Date:   Sun Jan 14 22:13:46 2024 -0500
+
+    Primer commit 😉
